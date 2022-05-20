@@ -40,4 +40,4 @@ async def on_message(message):
             await message.channel.send(random.choice(ans))      
 
 
-client.run('ODAxMDQyMTgxNjI4NDkzODk2.YAa6qg.tw83ja8N9dLyOQ7rm85VMY2AqH4')
+client.run('#### put ure token here')
